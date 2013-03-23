@@ -2,7 +2,7 @@
   "name" : "nodejs-tasks-example",
   "description" : "Examples to explore sequential and parallel execution in Node.js ",
   "version" : "0.1",
-  "main" : "car.js",
+  "main" : "seq_tasks_nimble.js",
   "author" : {
     "name" : "gyszalai",
     "email" : "gyszalai@gmail.com"
