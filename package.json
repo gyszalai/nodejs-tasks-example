@@ -1,0 +1,21 @@
+{
+  "name" : "nodejs-tasks-example",
+  "description" : "Examples to explore sequential and parallel execution in Node.js ",
+  "version" : "0.1",
+  "main" : "car.js",
+  "author" : {
+    "name" : "gyszalai",
+    "email" : "gyszalai@gmail.com"
+  },
+  "keywords" : [ "node.js", "tasks", "sequential", "parallel" ],
+  "license" : {
+    "type" : "apache20"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/gyszalai/nodejs-tasks-example.git"
+  },
+  "bugs" : {
+    "web" : "http://github.com/gyszalai/nodejs-tasks-example/issues"
+  }
+}
